@@ -1,0 +1,2 @@
+com\apigateway\filter\ZuulLoggingFilter.class
+com\apigateway\ApiGatewayApplication.class
